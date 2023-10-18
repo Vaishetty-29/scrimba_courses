@@ -3,90 +3,43 @@
        "id" :  1,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn Firebase",
-       "link" : "https://scrimba.com/learn/learnfirebase",
+       "course_name" : "Learn Imba",
+       "link" : "https://scrimba.com/learn/imba",
        "difficulty" : "intermediate",
-       "module_number" : 2,
+       "module_number" : 27,
        "certification" : "free"
      },
       {
-       "id" :  1,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn react",
-       "link" : "https://scrimba.com/learn/learnreact",
-       "difficulty" : "intermediate",
-       "module_number" : 4,
-       "certification" : "free"
-     },
-     {
        "id" : 2,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn JavaScript",
-       "link" : "https://scrimba.com/learn/learnjavascript",
-       "difficulty" : "Beginner",
-       "module_number" : 8,
-       "certification" : "free"
-     },
-     {
-       "id" :  3,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" :"Build a Space Travel Website",
-       "link" : "https://scrimba.com/learn/spacetravel",
+       "course_name" : "Fronted developer",
+       "link" : "https://scrimba.com/learn/frontend",
        "difficulty" : "intermediate",
-       "module_number" : 5,
+       "module_number" : 28,
        "certification" : "free"
      },
      {
-       "id" :  4,
+       "id" : 3,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn Bulma CSS",
-       "link" : "https://scrimba.com/learn/bulma",
+       "course_name" : "React Challenges",
+       "link" : "https://scrimba.com/learn/reactchallenges",
        "difficulty" : "intermediate",
-       "module_number" : 15,
+       "module_number" : 29,
        "certification" : "free"
      },
      {
-       "id" :  46,
+       "id" : 4,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn Practical math for frontend developers",
-       "link" : "https://scrimba.com/learn/practicalmath",
-       "difficulty" : "intermediate",
-       "module_number" : 0,
+       "course_name" :"Advanced React",
+       "link" : "https://scrimba.com/learn/react",
+       "difficulty" : "advanced",
+       "module_number" :30,
        "certification" : "free"
      },
-     {
-       "id" :  45,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Binary Search in JavaScript",
-       "link" : "https://scrimba.com/learn/algorithmsguide",
-       "difficulty" : "Advanced",
-       "module_number" : 0,
-       "certification" : "free"
-     },
-     {
-       "id" :  44,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Tailwind CSS",
-       "link" : "https://scrimba.com/learn/tailwind",
-       "difficulty" : "intermediate",
-       "module_number" : 0,
-       "certification" : "free"
-     },
-     {
-       "id" :  43,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Build a Movie Search App in React",
-       "link" : "https://scrimba.com/learn/reactmovie",
-       "difficulty" : "intermediate",
-       "module_number" : 0,
-       "certification" : "free"
-     }
+    
+   
+    
 ]
